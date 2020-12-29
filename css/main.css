@@ -210,32 +210,6 @@ ul {
     font-weight: 700;
 }
 
-@media screen and (max-width: 600px){
-    #header .container .logo-box .logo-link .logo-text {
-        font-size: 20px;
-        line-height: 2.3;
-        font-weight: 700;
-    }
-}
-
-
-@media screen and (min-width: 1200px){
-    #header .container .logo-box .logo-link .logo-text {
-        font-size: 80px;
-        line-height: 3.3;
-        font-weight: 400;
-    }
-}
-
-
-@media (max-width: 1200px) and (min-width: 600px){
-    #header .container .logo-box .logo-link .logo-text {
-        font-size: 50px;
-        line-height: 7.3;
-        font-weight: 400;
-    }
-}
-
 #header .container .main-nav .navbar .nav-item .nav-link {
     color: #111111;
     padding: 20px;
